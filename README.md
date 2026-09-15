@@ -1,3 +1,5 @@
 <h1 align="center">Hey :D</h1>
 
-<img src="terrain.gif" alt="terrain.gif" />
+<p align="center">
+  <img src="terrain.gif" width="800" alt="terrain.gif" />
+</p>
